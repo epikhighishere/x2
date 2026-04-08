@@ -1,10 +1,5 @@
 {
   "version": "1.0.1",
-  "changelog": {
-    "레이븐 빅뱅 추가",
-    "테스트",
-    "테스트"
-  }
   "files": [
     {
       "name": "data036.kom",
