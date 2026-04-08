@@ -1,12 +1,11 @@
 {
   "version": "1.0.1",
-    "files": [...],
-  "changelog": [
-    "레이븐 빅뱅 추가",
-  ]
+  "changelog": [ 레이븐 빅뱅 추가 ]
+  "files": [
     {
       "name": "data036.kom",
       "url": "https://epikhighishere.github.io/x2/data036.kom",
       "md5": ""
     }
+  ]
 }
