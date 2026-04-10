@@ -2,12 +2,18 @@
   "version": "1.0.3",
   "changelog": [
     " 모든 캐릭터의 드래곤 나이트 - 아바돈 (리폼) 풀 세트 추가",
+    "칭호 한글화"
     "2ne1 마이크, 머리띠 (검정) 추가"
   ],
   "files": [
     {
       "name": "data036.kom",
       "url": "https://epikhighishere.github.io/x2/data036.kom",
+      "md5": ""
+    },
+    {
+      "name": "data022.kom",
+      "url": "https://epikhighishere.github.io/x2/data022.kom",
       "md5": ""
     }
   ]
