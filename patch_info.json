@@ -1,12 +1,17 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "changelog": [
-    "루토 한벌옷 추가 (아라 제외)"
+    "냉기의, 여명의 군주 재료변경 불멸의 투지 제조 추가"
   ],
   "files": [
     {
       "name": "data036.kom",
       "url": "https://epikhighishere.github.io/x2/data036.kom",
+      "md5": ""
+    },
+      {
+      "name": "data022.kom",
+      "url": "https://epikhighishere.github.io/x2/data022.kom",
       "md5": ""
     }
   ]
